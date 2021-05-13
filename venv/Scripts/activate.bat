@@ -8,7 +8,11 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=D:\hanho\Chat\venv
+<<<<<<< HEAD
+set VIRTUAL_ENV=C:\Users\marxm\Desktop\Chat\venv
+=======
+set VIRTUAL_ENV=C:\misun\Git\Chat\venv
+>>>>>>> 9bc86ccc95b1131565245454617be8a3e5304e0c
 
 if not defined PROMPT set PROMPT=$P$G
 

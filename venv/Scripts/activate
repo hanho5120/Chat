@@ -37,7 +37,11 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
+<<<<<<< HEAD
+VIRTUAL_ENV="C:\Users\marxm\Desktop\Chat\venv"
+=======
 VIRTUAL_ENV="C:\misun\Git\Chat\venv"
+>>>>>>> 9bc86ccc95b1131565245454617be8a3e5304e0c
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

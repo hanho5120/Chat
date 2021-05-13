@@ -1,1 +1,1 @@
-# commit
+print('성공!')

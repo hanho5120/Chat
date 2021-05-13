@@ -9,10 +9,14 @@ if defined _OLD_CODEPAGE (
 )
 
 <<<<<<< HEAD
+set VIRTUAL_ENV=C:\Git\clone\Chat\venv
+=======
+<<<<<<< HEAD
 set VIRTUAL_ENV=C:\Users\marxm\Desktop\Chat\venv
 =======
 set VIRTUAL_ENV=C:\misun\Git\Chat\venv
 >>>>>>> 9bc86ccc95b1131565245454617be8a3e5304e0c
+>>>>>>> 9aee9b792c450889d1c685e234e60bc81ec0eb5d
 
 if not defined PROMPT set PROMPT=$P$G
 
